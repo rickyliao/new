@@ -306,7 +306,7 @@ $ git push</pre>
           <div class="logo"><a href="https://www.openshift.com/"></a></div>
         </footer>
 </section>
-Ricky Liao v3
+Ricky Liao v4
 
 
 </body>
